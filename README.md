@@ -5,7 +5,7 @@ here are some pictures showcasing the website:
 ![image](https://github.com/user-attachments/assets/3299abe1-0d23-4828-973a-771db36ec2e1)
 --This the new User registration page . there is a local database to store the details of users which allows only registered users to login into the website
 ![image](https://github.com/user-attachments/assets/f6cab5c2-ecfc-4791-b2ae-581984323b6a)
---this is the volunteer page
+--this is the volunteer page . It shows guidelines for volunteers .
 ![image](https://github.com/user-attachments/assets/f6d8aecd-eedc-4f5a-95dd-8da253b2e680)
 --this page shows the locations of the foodhubs . when clicked on a food hub it shoes the amount of food available in that location
 ![image](https://github.com/user-attachments/assets/de919c45-6359-403b-aa6a-1796f9a4442d)
