@@ -23,6 +23,30 @@
       "email": "ramkan@gmail.com",
       "dob": "2024-10-16",
       "role": "Donor"
+    },
+    {
+      "id": "7dc7",
+      "username": "saranya00",
+      "password": "123456789",
+      "email": "ramkan8@gmail.com",
+      "dob": "2024-11-02",
+      "role": "Donor"
+    },
+    {
+      "id": "a1ae",
+      "username": "charan06",
+      "password": "charan06",
+      "email": "ramkan8@gmail.com",
+      "dob": "2024-11-28",
+      "role": "Donor"
+    },
+    {
+      "id": "3b71",
+      "username": "mahima06",
+      "password": "123456789",
+      "email": "mahi06@gmail.com",
+      "dob": "2024-12-24",
+      "role": "Receiver"
     }
   ],
   "donations": [
@@ -121,6 +145,14 @@
       "quantity": "40",
       "expiration": "2024-10-28",
       "condition": "Near Expiry"
+    },
+    {
+      "id": "500d",
+      "foodDetails": "Fresh Produce",
+      "food": "pizza",
+      "quantity": "10",
+      "expiration": "2024-11-21",
+      "condition": "Fresh"
     }
   ]
 }

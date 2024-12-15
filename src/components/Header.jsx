@@ -1,9 +1,9 @@
-import React from 'react';
+
 import { Link } from 'react-router-dom';
 import logo1 from '../assets/logo1.jpg';
 import './H1.css';
 
-function Header({ loginStatus }) {
+function Header() {
   return (
     <div className='heading' >
     <header className='header '>
