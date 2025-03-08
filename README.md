@@ -40,14 +40,12 @@ Make sure you have the following installed:
  ### Installation
  
  ```sh
-# Clone the repository
-git clone https://github.com/pranathi-vnr/FoodCollection-Website-NourishNet.git
-
-# Navigate to the project directory
-cd FoodCollection-Website-NourishNet
 
 # Install dependencies
 npm install
+
+#or use this
+npm install bootstrap json json-server leaflet react react-dom react-hook-form react-icons react-leaflet react-router-dom
 
 # Start the development server
 npm run dev
