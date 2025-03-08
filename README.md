@@ -27,10 +27,32 @@ this donated food data is also stored in local database and displayed for a cust
 ![image](https://github.com/user-attachments/assets/9b25e7ea-3fb0-4957-87b4-a03c78be6a1f)
 
 - This is a page for customer . who ever wants to order from the website can see the fooditems present and the quantity available .
-- 
+  
 ![image](https://github.com/user-attachments/assets/33c619df-2114-4895-95c3-9c09bc96a5f0)
 
+### Prerequisites
 
+Make sure you have the following installed:
+
+- **Node.js** and **npm**
+- A code editor (**VS Code** recommended)
+
+ ### Installation
+ 
+ ```sh
+# Clone the repository
+git clone https://github.com/pranathi-vnr/FoodCollection-Website-NourishNet.git
+
+# Navigate to the project directory
+cd FoodCollection-Website-NourishNet
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+```
 install the following dependencies in vs code to run this code on your device:
 bootstrap
 json
