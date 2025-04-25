@@ -1,0 +1,32 @@
+
+.header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 8px; 
+    background-color: #e8f5e9;
+    border-bottom: 3.3px solid #ffd700; 
+    color:#006400;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center; 
+  }
+  
+  .nav {
+    display: flex; 
+  }
+  .nav-list {
+    list-style: none; 
+    display: flex;
+   margin-top: 20px;
+   font-size: x-large;
+  }
+
+
+  
+  
+ 
+ 
+  

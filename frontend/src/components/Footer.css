@@ -1,0 +1,60 @@
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #e8f5e9;
+    border-top: 3.3px solid #ffd700; 
+  color:black;
+  padding: 20px 0;
+}
+
+.footer-section {
+  flex: 1;
+  margin: 0 20px;
+}
+
+.footer-section h3 {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+.footer-section p, .footer-section address {
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.donate-button, .subscribe-button {
+  background-color: #f0a500;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 0.9em;
+  margin-top: 10px;
+}
+
+.donate-button:hover, .subscribe-button:hover {
+  background-color: #d48c00;
+}
+
+.newsletter input[type="email"] {
+  padding: 8px;
+  width: 80%;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  color:black;
+  font-size: 1.5em;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #f0a500;
+}
