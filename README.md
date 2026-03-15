@@ -49,16 +49,16 @@ nourishnet/
 
 ### Application Preview
 
-![](ss/1.png)
+![](preview/s1.png)
 
 | | |
 |---|---|
-| ![](ss/2.png) | ![](ss/3.png) |
-| ![](ss/4.png) | ![](ss/5.png) |
-| ![](ss/6.png) | ![](ss/7.png) |
-| ![](ss/8.png) | ![](ss/9.png) |
-| ![](ss/10.png) | ![](ss/11.png) |
-| ![](ss/12.png) | ![](ss/13.png) |
+| ![](preview/s2.png) | ![](preview/s3.png) |
+| ![](spreview/s4.png) | ![](preview/s5.png) |
+| ![](preview/s6.png) | ![](preview/s7.png) |
+| ![](preview/s8.png) | ![](preview/s9.png) |
+| ![](preview/s10.png) | ![](preview/s11.png) |
+
 
 ---
 ## 🛠 Tech Stack
